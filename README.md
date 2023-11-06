@@ -1,5 +1,4 @@
 # LoadImageApp
-Mobile Application Development (MAD) Assignment 2 part B
 
 ## Purpose of this assignment
 The purpose of this assignment is to help familiarise with Android threading, network calls and remote uploading. 
